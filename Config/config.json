@@ -28,6 +28,7 @@
     ],
 
     "engines" : [
-        "Renegade"
+        "Renegade",
+        "Motor"
     ]
 }
